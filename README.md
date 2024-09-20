@@ -2,3 +2,4 @@
 #LAB-2(https://github.com/2303A51478/1478_AIML/blob/main/LAB-02-AIML.ipynb)
 #LAB-3(https://github.com/2303A51478/1478_AIML/blob/main/LAB-3-AIML.ipynb)
 #LAB-4(https://github.com/2303A51478/1478_AIML/blob/main/LAB-4-AIML.ipynb)
+#LAB-5(https://github.com/2303A51478/1478_AIML/blob/main/LAB-5-AIML.ipynb)
