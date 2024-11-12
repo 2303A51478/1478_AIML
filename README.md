@@ -5,3 +5,4 @@
 #LAB-5(https://github.com/2303A51478/1478_AIML/blob/main/LAB-5-AIML.ipynb)
 #LAB-6(https://github.com/2303A51478/1478_AIML/blob/main/Lab_6.ipynb)
 #LAB-7(https://github.com/2303A51478/1478_AIML/blob/main/Lab_7_aiml.ipynb)
+#Lab-8(https://github.com/2303A51478/1478_AIML/blob/main/LAB-08-AIML.ipynb)
